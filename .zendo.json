@@ -1,0 +1,26 @@
+{
+    "description": "Highly portable workflows for processing of ATAC-seq data based on the Common Workflow Language", 
+    "license": "other-open", 
+    "title": "Highly portable workflows for processing of ATAC-seq data based on the Common Workflow Language", 
+    "upload_type": "software", 
+    "publication_date": "2020-04-20", 
+    "creators": [
+        {
+            "affiliation": "German Cancer Research Center", 
+            "name": "Kersten Breuer"
+        },
+        {
+            "affiliation": "German Cancer Research Center", 
+            "name": "Yassen Assenov"
+        },
+        {
+            "affiliation": "German Cancer Research Center", 
+            "name": "Pavlo Lutsik"
+        },
+        {
+            "affiliation": "German Cancer Research Center", 
+            "name": "Christoph Plass"
+        }
+    ], 
+    "access_right": "open"
+}
