@@ -1,5 +1,5 @@
 {
-    "license": "Apache 2.0", 
+    "license": "Apache-2.0", 
     "title": "Highly portable workflows for processing of ATAC-seq data based on the Common Workflow Language", 
     "creators": [
         {
