@@ -1,6 +1,6 @@
 {
     "description": "Highly portable workflows for processing of ATAC-seq data based on the Common Workflow Language", 
-    "license": "other-open", 
+    "license": "Apache 2.0", 
     "title": "Highly portable workflows for processing of ATAC-seq data based on the Common Workflow Language", 
     "upload_type": "software", 
     "publication_date": "2020-04-20", 
